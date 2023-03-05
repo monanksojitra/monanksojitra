@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Book-Store](https://github.com/monanksojitra/book-store)
 
-- 🌱 I’m currently learning **React js,Nativ**
+- 🌱 I’m currently learning **React js,Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/monanksojitra](https://github.com/monanksojitra)
 
